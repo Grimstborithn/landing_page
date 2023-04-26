@@ -34,9 +34,8 @@ body{
     margin-top: 7vh;
 }
 
-.image2 ol{
-    list-style: none;
-    font-size: 1.8vw;
+.image2 ul li{
+    font-size: 1.6vw;
     line-height: 2;
     text-align: right;
     color: #ca6a1c;
@@ -48,6 +47,7 @@ body{
 }
 
 .telefone {
+    margin-left: 2vw;
     font-size: 5vw;
 }
 
